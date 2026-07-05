@@ -1,4 +1,4 @@
-# Showcase Scala API
+# Scala JVM Service
 
 **Scala** HTTP service concept — JVM functional programming, big-data adjacent roles.
 
